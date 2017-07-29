@@ -17,6 +17,11 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
 /**
+ * github地址: https://github.com/chquanquan/okhttpdemo
+ * 如果有疑问或建议,欢迎issues
+ */
+
+/**
  * 用来发送get,post请求的工具类, 包括设置一些请求的共用参数.
  */
 

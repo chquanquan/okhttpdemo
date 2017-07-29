@@ -27,6 +27,11 @@ import chq.com.okhttpdemo.okhttp.listerner.DisposeDataListener;
 import chq.com.okhttpdemo.okhttp.request.CommonRequest;
 import chq.com.okhttpdemo.okhttp.request.RequestParams;
 
+/**
+ * github地址: https://github.com/chquanquan/okhttpdemo
+ * 如果有疑问或建议,欢迎issues
+ */
+
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

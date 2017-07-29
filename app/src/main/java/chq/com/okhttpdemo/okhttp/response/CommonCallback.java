@@ -20,6 +20,11 @@ import okhttp3.Response;
  * Created by quan on 2017/7/28.
  */
 
+/**
+ * github地址: https://github.com/chquanquan/okhttpdemo
+ * 如果有疑问或建议,欢迎issues
+ */
+
 public class CommonCallback implements Callback {
 
     private static final String TAG = "CommonCallback";
