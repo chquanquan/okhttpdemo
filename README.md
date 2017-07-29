@@ -8,12 +8,11 @@
 一开始看视频,我就想要一个demo了.后来发现评论也有很多人要demo.但是老师没有给出来.
 我就按照老师的视频代码写了一遍,把运行不了代码和链接换成可用的....如果有同学看到可以改进的或者错误的地方欢迎在评论区指正.
 
-这个是github地址: [okhttpdemo](https://github.com/chquanquan/okhttpdemo)
 
-目录如下图:
+目录如图:
 ![目录](https://github.com/chquanquan/okhttpdemo/blob/master/menu_shot.png?raw=true)
 
-效果如下图:
+效果如图:
 ![效果图](https://github.com/chquanquan/okhttpdemo/blob/master/screen_shot.png?raw=true)
 
 ####1.get方法	
