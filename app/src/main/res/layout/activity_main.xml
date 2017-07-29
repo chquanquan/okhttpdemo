@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/four_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <Button
+        android:id="@+id/post_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="模拟POST请求"/>
+
+    <Button
+        android:id="@+id/get_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="模拟GET请求"/>
+
+    <Button
+        android:id="@+id/down_load_file"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="文件下载"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/cookie_show_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </ScrollView>
+
+
+
+
+
+
+
+</LinearLayout>
