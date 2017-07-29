@@ -188,7 +188,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     //重启下载任务
                     doSDCardPermission();
                 } else {
-                    Toast.makeText(this, "需要授权才可以下载文件.", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(this, "需要文件访问授权才可以下载.", Toast.LENGTH_SHORT).show();
                 }
                 break;
         }
