@@ -15,7 +15,7 @@
 效果如图:
 ![效果图](https://github.com/chquanquan/okhttpdemo/blob/master/screen_shot.png?raw=true)
 
-####1.get方法	
+1.get方法	
 ```
 private void getRequest() { 
 CommonOkHttpClient.get(CommonRequest.createGetRequest("http://gc.ditu.aliyun.com/regeocoding?l=39.938133,116.395739&type=001", null), 
@@ -32,7 +32,7 @@ Log.d(TAG, "onFailure: get请求,网络请求失败");
 }));
 }
 ```
-####2.post方法
+2.post方法
 
 ```
 private void postRequest() {
@@ -55,7 +55,7 @@ Log.d(TAG, "onFailure: post请求,网络请求失败");
 }
 ```
 
-####3.downloadFile方法
+3.downloadFile方法
 
 ```
 private void doSDCardPermission() {
